@@ -39,4 +39,5 @@ console.table(object2)
 
 //commit:
 //git add .
-//git commit -m "(data) Arrow functions e objetos"
+//git commit -m "(data) Nome do que foi feito"
+//git push
